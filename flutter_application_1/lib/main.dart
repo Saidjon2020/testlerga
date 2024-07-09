@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'package:flutter/material.dart';
 
 void main() {
@@ -123,3 +124,6 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+=======
+// salom 
+>>>>>>> 787f57ec4b1cfecbac124566910d809bd9b41f73
